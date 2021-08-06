@@ -9,14 +9,14 @@
 
 - 📫 How to reach me **joshberger6969@outlook.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1VCRoPRXtJy--lpjcCtM7PoUUIQD9dw1w2Qjfi82ovrc/edit](https://docs.google.com/document/d/1VCRoPRXtJy--lpjcCtM7PoUUIQD9dw1w2Qjfi82ovrc/edit)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1VCRoPRXtJy--lpjcCtM7PoUUIQD9dw1w2Qjfi82ovrc](https://docs.google.com/document/d/1VCRoPRXtJy--lpjcCtM7PoUUIQD9dw1w2Qjfi82ovrc)
 
 - ⚡ Fun fact **I bring light to the darkness, I know how to work and have fun at the same time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/joshburger16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joshburger16" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/joshua-burger-51b5151b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joshua-burger-51b5151b6/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/joshua-burger-51b5151b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joshuasburger/" height="30" width="40" /></a>
 <a href="https://medium.com/@joshberger6969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@joshberger6969" height="30" width="40" /></a>
 </p>
 

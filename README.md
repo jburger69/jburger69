@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, ruby, rails, javascript**
 
-- 📫 How to reach me **joshberger6969@outlook.com**
+- 📫 How to reach me **burger.joshua.s@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1VCRoPRXtJy--lpjcCtM7PoUUIQD9dw1w2Qjfi82ovrc](https://docs.google.com/document/d/1VCRoPRXtJy--lpjcCtM7PoUUIQD9dw1w2Qjfi82ovrc)
 

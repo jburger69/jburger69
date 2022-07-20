@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **burger.joshua.s@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1VCRoPRXtJy--lpjcCtM7PoUUIQD9dw1w2Qjfi82ovrc](https://docs.google.com/document/d/1VCRoPRXtJy--lpjcCtM7PoUUIQD9dw1w2Qjfi82ovrc)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/joshburger16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joshburger16" height="30" width="40" /></a>
